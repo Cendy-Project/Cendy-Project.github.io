@@ -1,0 +1,24 @@
+{
+  "name": "cendy-project.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cendy-Project/Cendy-Project.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cendy-Project/Cendy-Project.github.io/issues"
+  },
+  "homepage": "https://github.com/Cendy-Project/Cendy-Project.github.io#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "ytdl-core": "^0.29.1"
+  }
+}
